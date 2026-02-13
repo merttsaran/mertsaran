@@ -1,16 +1,54 @@
-# Hi there, I'm Mert! 👋
+# 👋 Hi, I'm Mert
 
-### 🚛 From Global Shipping to Backend Development
-I am a **Logistics Expert** with more than 8 years of experience in global liner operations (Hapag-Lloyd), production, and customs. I am currently transitioning into **Full Stack Developer** to build tech solutions for the industry I know best.
+## 🚛 Logistics Professional → Full Stack Developer
 
-- 🔭 I’m currently working on: **HTML-CSS Basics**
-- 🛳️ Industry Expertise: **Liner Shipping, Import/Export, Supply Chain Management**
-- 🌍 Languages: **English (Professional), Turkish (Native)**
-- ⚡ Fun fact: I've spent more than 8 years solving logistics puzzles; now I'm solving them with code!
+With 8+ years of experience in global liner operations (Hapag-Lloyd), customs, and supply chain management, I’m transitioning into software development to build technical solutions for the logistics and trade industry.
 
-## 🛠️ Tech Stack & Learning Path
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+I combine real-world operational experience with growing technical skills to create practical and scalable solutions.
 
 ---
-[https://www.linkedin.com/in/mert-saran-b521b2227/)| [merttsaran@gmail.com]
+
+## 🚀 Currently Focused On
+
+- HTML & CSS fundamentals  
+- Python fundamentals  
+- Git & GitHub workflow  
+- Transitioning into JavaScript  
+- Building small, consistent projects  
+
+---
+
+## 🛠 Tech Stack
+
+- Python  
+- HTML  
+- CSS  
+- JavaScript (upcoming focus)  
+- Git & GitHub  
+
+---
+
+## 💼 Industry Background
+
+- Global Liner Shipping Operations  
+- Import / Export & Customs  
+- Supply Chain Management  
+- Operational Problem Solving  
+
+---
+
+## 🎯 Long-Term Goal
+
+To combine logistics expertise with software development and build digital tools that improve trade operations and supply chain efficiency.
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/mert-saran/)
+
+Email: merttsaran@gmail.com  
+
+---
+
+#FullStackDeveloper #CareerTransition #SoftwareDevelopment #LogisticsTech #Python #JavaScript #HTML #CSS #GitHub #SupplyChain #TechJourney
